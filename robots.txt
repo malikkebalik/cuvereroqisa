@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cuvereroqisa.pages.dev/sitemap.xml
